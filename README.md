@@ -34,7 +34,7 @@
 
 ### What I learned
 
-I learned how to use grid systems for complex layouts.  After this challenge, I can easily visualize container placement on grids
+I learned how to use grid systems for complex layouts.  After this challenge, I can easily visualize container placement on grids which will make it easier for future projects. 
 
 ### Continued development
 
