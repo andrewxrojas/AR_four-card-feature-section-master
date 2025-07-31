@@ -22,8 +22,8 @@
 
 ### Links
 
-- Solution URL: [AR_four-card-feature-section-master]()
-- Live Site URL: [Live site]()
+- Solution URL: [AR_four-card-feature-section-master](https://github.com/andrewxrojas/AR_four-card-feature-section-master.git)
+- Live Site URL: [Live site](https://andrewxrojas.github.io/AR_four-card-feature-section-master/)
 
 ## My process
 
@@ -34,10 +34,7 @@
 
 ### What I learned
 
-I discovered how easily a syntax error can lead to broken code. 
-I had missed a closing tag in my index.html file, which caused any 
-CSS changes to have no effect on the layout. Once I identified the error, 
-I realized its impact. The lesson is: always ensure your foundation is solid before continuing.
+I learned how to use grid systems for complex layouts.  After this challenge, I can easily visualize container placement on grids
 
 ### Continued development
 
